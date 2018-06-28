@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css?family=Tajawal");
+html {
+  height: 100%;
+}
+body {
+  margin: 0;
+  padding: 0;
+  background: #dcdddd;
+  font-family: "Tajawal", sans-serif;
+  height: 100%;
+}

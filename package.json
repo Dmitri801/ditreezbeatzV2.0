@@ -1,0 +1,27 @@
+{
+  "name": "ditreez_beatzv2.0",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "classnames": "^2.2.6",
+    "gsap": "^2.0.1",
+    "jquery": "^3.3.1",
+    "radium": "^0.24.0",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4",
+    "react-scrollable-anchor": "^0.6.1",
+    "react-scrollspy": "^3.3.5",
+    "react-spring": "^5.3.15",
+    "react-z-index": "^2.3.0",
+    "semantic-ui-css": "^2.3.2",
+    "semantic-ui-react": "^0.81.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
